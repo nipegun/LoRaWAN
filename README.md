@@ -1,1 +1,1 @@
-# lorawan-resources
+# LoRaWAN
